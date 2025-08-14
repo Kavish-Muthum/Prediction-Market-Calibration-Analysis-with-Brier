@@ -2,6 +2,8 @@
 
 An interactive Bokeh web application for analyzing the calibration and forecasting skill of Kalshi prediction markets. This tool downloads intraday market prices, creates time-based snapshots, and provides comprehensive calibration analysis with uncertainty quantification.
 
+![Kalshi Calibration Analysis Example](https://github.com/Kavish-Muthum/Prediction-Market-Calibration-Analysis-with-Brier/blob/main/Example.png?raw=true)
+
 ## Overview
 
 This application evaluates how well Kalshi markets are "calibrated" - whether events predicted with X% probability actually occur X% of the time. It provides:
