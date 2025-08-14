@@ -2,7 +2,7 @@
 
 An interactive Bokeh web application for analyzing the calibration and forecasting skill of Kalshi temperature prediction markets across multiple cities. This tool downloads intraday market prices from seven major US cities, creates time-based snapshots, and provides comprehensive calibration analysis with uncertainty quantification and cross-city comparisons.
 
-![Multi-City Kalshi Calibration Analysis Example]([GIF_Multi_City_Calibration.gif](https://github.com/Kavish-Muthum/Prediction-Market-Calibration-Analysis-with-Brier/blob/main/GIF_All_Calibration.gif?raw=true))
+![GIF_Multi_City_Calibration.gif](https://github.com/Kavish-Muthum/Prediction-Market-Calibration-Analysis-with-Brier/blob/main/GIF_All_Calibration.gif?raw=true)
 
 ## Overview
 
