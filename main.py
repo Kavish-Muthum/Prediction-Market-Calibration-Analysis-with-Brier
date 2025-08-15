@@ -47,8 +47,8 @@ LOOKBACK_DAYS = None  # None = use all data from FIRST_AVAILABLE_DATE; or set in
 
 # Cache settings
 CACHE_FILE = "kalshi_multi_city_temp_cache.pkl"
-FORCE_REFRESH = True  # True to force re-download
-EXPORT_CSV = False     # True to export CSV (can be large!)
+FORCE_REFRESH = False  # True to force re-download
+EXPORT_CSV = False     # True to export CSV (large)
 
 # Calibration settings
 DEFAULT_BINS = 10
