@@ -420,7 +420,6 @@ Per-city breakdown:
 ## References
 
 - **Calibration Theory**: [Calibration and Skill of the Kalshi Prediction Markets](https://www.cwdatasolutions.com/post/calibration-and-skill-of-the-kalshi-prediction-markets)
-- **Multi-Market Analysis**: [Comparative Prediction Market Performance](https://example.com/multi-market-analysis)
 - **Brier Score**: [Verification of Forecasts Expressed in Terms of Probability](https://doi.org/10.1175/1520-0493(1950)078%3C0001:VOFEIT%3E2.0.CO;2)
 - **Kalshi API**: [Official Documentation](https://kalshi-public-docs.s3.amazonaws.com/KalshiAPI.html)
 
