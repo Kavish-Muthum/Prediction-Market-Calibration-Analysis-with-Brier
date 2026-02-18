@@ -2,7 +2,7 @@
 
 ---
 
-## 🌦️ Project Website
+## Project Website
 
 > A deep dive into the methodology, data, and findings.
 
